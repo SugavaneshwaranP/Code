@@ -1,5 +1,5 @@
 class Solution {
-    public void sortColors(int[] num) {
-        Arrays.sort(num);
+    public void sortColors(int[] nums) {
+        Arrays.sort(nums);
     }
 }
