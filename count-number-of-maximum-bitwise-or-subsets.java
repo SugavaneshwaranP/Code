@@ -1,5 +1,5 @@
 class Solution {
-    public int countMaxOrSubsets(int[] nums) {
+    public int countOrSubsets(int[] nums) {
         int[] dp = new int[1 << 17];
         dp[0] = 1;
         int maxor = 0;
